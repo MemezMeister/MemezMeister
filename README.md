@@ -1,20 +1,19 @@
 Hi, I'm Fajar 👋
 ---
 **📌About** <br>
-Hi, I'm Muhamad Fajar, also known as Fajarnadril. I specialize in XR development, visual design, research, and teaching. I've created various educational apps for institutions and state-owned enterprises, highlighting my skills in XR and visual design.
 
-I'm passionate about immersive technology, especially XR applications. I develop training and simulation apps for health and safety, educational applications, and engaging immersive marketing content.
+I’m Steven Nugroho,a BINUS University student passionate about game programming, seeking an internship to enhance my skills and gain hands-on experience. I am eager to apply my knowledge, collaborate with professionals, and contribute to innovative game development projects.
 
 **📩Email** <br>
-hi@fajar.io
+steven5658118@gmail.com
 
 <br>
 
 <table width="100%">
   <thead>
     <tr>
-      <th width="50%" align="center"><a>Project Stir </a></th> <!--tittle-->
-      <th width="50%" align="center"><a>Hopeless</a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Space Top Down Shooter Game </a></th> <!--tittle-->
+      <th width="50%" align="center"><a>Space Invader Game</a></th> <!--tittle-->
     </tr>
   </thead>
   <tbody>
@@ -27,8 +26,8 @@ hi@fajar.io
       </td>
     </tr>
     <tr>
-      <td valign="text-top">ProjectStir [Pre-Alpha] is a meticulously crafted driving simulation application designed to assess driving skills through a game-centric approach. My contributions include serving as the project lead, where I prioritized and coordinated tasks, and also acting as the game designer. This project was completed in less than two days for an event by BINUS University's Game Application Technology department.</td> <!--desc-->
-      <td valign="text-top">Hopeless is a side-scrolling game that combines the mechanics of Cat Mario with the art style of Limbo. I use this game as a teaching material to introduce basic game programming concepts using Unity. The core game mechanics can be developed in less than one day</td> <!--desc-->
+      <td valign="text-top">This top-down space-themed shooter challenges players to beat their highest round, with WASD controls and automatic shooting. A dice roll system determines enemy spawns and buffs, creating a random and dynamic experience. Players face increasing difficulty as more enemies spawn with each round, and they can collect buffs after defeating enemies, which may boost fire rate, heal, increase max HP, or enhance damage based on another dice roll.</td> <!--desc-->
+      <td valign="text-top">This Space Invader game is similar to the classic arcade version, with the player's ship controlled using A and D keys. The enemy behavior resembles a top-down shooter, using a dice roll system for shooting. Initially, all enemies have a base shooting difficulty of 1, and though I considered increasing the difficulty, it made the game too hard. Now, enemies only shoot when they roll a 1, but even so, many enemies can still fire at the player.</td> <!--desc-->
     </tr>
     <tr>
       <td align="center"><a href="https://github.com/fajarnadril/Project-Stir">Read More</a></td> <!--link1-->

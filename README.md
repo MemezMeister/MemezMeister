@@ -40,16 +40,22 @@ steven5658118@gmail.com
   <thead>
     <tr>
       <th width="50%" align="center"><a>Dumb Ways to Construct</a></th> <!--tittle 3-->
+      <th width="50%" align="center"><a>Dome Diner</a></th> <!--tittle 4-->      
     </tr>
   </thead>
   <tbody>
     <tr>
       <td align="center">
-        <img src="https://github.com/MemezMeister/MemezMeister/blob/main/y2mate.com%20-%20Dumb%20Ways%20to%20Construct_1080p.mp4" alt="1" style="width:100%;height:auto;">
+        <img src="https://github.com/MemezMeister/MemezMeister/blob/main/Dumb%20Ways%20to%20Construct.gif" alt="1" style="width:100%;height:auto;">
+      </td>
+      <td align="center">
+        <img src="https://github.com/MemezMeister/MemezMeister/blob/main/Dome%20Diner.gif" alt="1" style="width:100%;height:auto;">
       </td>
     </tr>
     <tr>
       <td valign="text-top">This Short small game is to teach about safety in the construction place. To make the game even more challenging, we made the timer shorter once you've finished with all the minigame levels, and your objective is to get the highest score possible..</td> <!--desc-->
+       <td valign="text-top">Dome Diner is a casual diner and time management game set in a human colony in Mars. Inspired by Diner Dash, Dome Diner is 2D fixed camera where you work as a waiter and use mouse clicks as game controls. In this game you will be able to: Sending customers to their table, take their order to the chef, deliver their food, and pick up dirty plates. The Player will clear the level once the X number of customer set for that level is spawned and there are no more customer at the table. The game will show the player the statistics on their performances by showing how many customer served and how many customer left.
+ </td> <!--desc-->
     </tr>
   </tbody>
 </table>
